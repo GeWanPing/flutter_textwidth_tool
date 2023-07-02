@@ -55,7 +55,7 @@ class Calculator {
     if (str.length > 1) {
       return str;
     } else {
-      return "0${str}";
+      return "0$str";
     }
   }
 

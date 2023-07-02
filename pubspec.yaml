@@ -1,7 +1,7 @@
 name: restore_data_package
 description: a simple time tool and width with text.
 version: 0.0.1
-homepage:
+homepage: https://github.com/GeWanPing/flutter_textwidth_tool.git
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
